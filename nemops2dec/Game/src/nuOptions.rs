@@ -271,18 +271,198 @@ fn nuOptionsFunc(){
 								}
 								else if NuSoundVol == 7{
 									NuSoundVol -= 1 // left
+									RougePosY -= RougePosY + 0.1599
+									if RougePosX == -0.5999 & RougePosY == 0.1599
+									{
+										if NuMusicVol == 10{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 9{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 8{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 7{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 6{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 5{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 4{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 3{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 2{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 1{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 0{
+										}
+									}
 									if NuSoundVol == 6{
 										NuSoundVol += 1 // right
+										RougePosY -= RougePosY + 0.1599
+										if RougePosX == -0.5999 & RougePosY == 0.1599
+										{
+											if NuMusicVol == 10{
+												NuMusicVol -= 1
+											}
+											else if NuMusicVol == 9{
+												NuMusicVol -= 1
+											}
+											else if NuMusicVol == 8{
+												NuMusicVol -= 1
+											}
+											else if NuMusicVol == 7{
+												NuMusicVol -= 1
+											}
+											else if NuMusicVol == 6{
+												NuMusicVol -= 1
+											}
+											else if NuMusicVol == 5{
+												NuMusicVol -= 1
+											}
+											else if NuMusicVol == 4{
+												NuMusicVol -= 1
+											}
+											else if NuMusicVol == 3{
+												NuMusicVol -= 1
+											}
+											else if NuMusicVol == 2{
+												NuMusicVol -= 1
+											}
+											else if NuMusicVol == 1{
+												NuMusicVol -= 1
+											}
+											else if NuMusicVol == 0{
+											}
+										}
 									}
 								}
 								else if NuSoundVol == 6{
 									NuSoundVol -= 1 // left
+									RougePosY -= RougePosY + 0.1599
+									if RougePosX == -0.5999 & RougePosY == 0.1599
+									{
+										if NuMusicVol == 10{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 9{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 8{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 7{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 6{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 5{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 4{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 3{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 2{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 1{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 0{
+										}
+									}
 									if NuSoundVol == 5{
 										NuSoundVol += 1 // right
+										RougePosY -= RougePosY + 0.1599
+										if RougePosX == -0.5999 & RougePosY == 0.1599
+										{
+											if NuMusicVol == 10{
+												NuMusicVol -= 1
+											}
+											else if NuMusicVol == 9{
+												NuMusicVol -= 1
+											}
+											else if NuMusicVol == 8{
+												NuMusicVol -= 1
+											}
+											else if NuMusicVol == 7{
+												NuMusicVol -= 1
+											}
+											else if NuMusicVol == 6{
+												NuMusicVol -= 1
+											}
+											else if NuMusicVol == 5{
+												NuMusicVol -= 1
+											}
+											else if NuMusicVol == 4{
+												NuMusicVol -= 1
+											}
+											else if NuMusicVol == 3{
+												NuMusicVol -= 1
+											}
+											else if NuMusicVol == 2{
+												NuMusicVol -= 1
+											}
+											else if NuMusicVol == 1{
+												NuMusicVol -= 1
+											}
+											else if NuMusicVol == 0{
+											}
+										}
 									}
 								}
 								else if NuSoundVol == 5{
 									NuSoundVol -= 1 // left
+									RougePosY -= RougePosY + 0.1599
+									if RougePosX == -0.5999 & RougePosY == 0.1599
+									{
+										if NuMusicVol == 10{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 9{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 8{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 7{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 6{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 5{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 4{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 3{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 2{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 1{
+											NuMusicVol -= 1
+										}
+										else if NuMusicVol == 0{
+										}
+									}
 									if NuSoundVol == 4{
 										NuSoundVol += 1 // right
 									}
